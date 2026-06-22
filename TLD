@@ -1,3 +1,8 @@
+# Title: Plain-text list of currently delegated top-level domains
+# Description: Filter to block top-level domains.
+# Homepage: https://github.com/pvancso/Office365_whitelist-urls
+# Last modified: 2026-06-19
+
 0.0.0.0	AAA
 0.0.0.0	AARP
 0.0.0.0	ABB
