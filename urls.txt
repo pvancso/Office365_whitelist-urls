@@ -17,7 +17,7 @@
 0.0.0.0	protection.outlook.com
 0.0.0.0	mail.protection.outlook.com
 0.0.0.0	mx.microsoft
-SharePoint Online and OneDrive for Business	
+#SharePoint Online and OneDrive for Business	
 0.0.0.0	sharepoint.com
 0.0.0.0	storage.live.com
 0.0.0.0	svc.ms
@@ -28,7 +28,7 @@ SharePoint Online and OneDrive for Business
 0.0.0.0	oneclient.sfx.ms
 0.0.0.0	sharepointonline.com
 0.0.0.0	spoprod-a.akamaihd.net
-Microsoft Teams	
+#Microsoft Teams	
 0.0.0.0	lync.com
 0.0.0.0	teams.cloud.microsoft
 0.0.0.0	teams.microsoft.com
@@ -47,7 +47,7 @@ Microsoft Teams
 0.0.0.0	office.net
 0.0.0.0	onenote.com
 0.0.0.0	microsoft.com
-0.0.0.0	*cdn.onenote.net
+0.0.0.0	cdn.onenote.net
 0.0.0.0	ajax.aspnetcdn.com
 0.0.0.0	apis.live.net
 0.0.0.0	officeapps.live.com
@@ -140,7 +140,7 @@ Microsoft Teams
 0.0.0.0	c.bing.net
 0.0.0.0	ocos-office365-s2s.msedge.net
 0.0.0.0	tse1.mm.bing.net
-0.0.0.0	www.bing.com
+0.0.0.0	bing.com
 0.0.0.0	acompli.net
 0.0.0.0	outlookmobile.com
 0.0.0.0	login.windows-ppe.net
@@ -180,11 +180,11 @@ Microsoft Teams
 0.0.0.0	ocspx.digicert.com
 0.0.0.0	oneocsp.microsoft.com
 0.0.0.0	secure.globalsign.com
-0.0.0.0	www.digicert.com
-0.0.0.0	www.microsoft.com
+0.0.0.0	digicert.com
+0.0.0.0	microsoft.com
 0.0.0.0	officespeech.platform.bing.com
 0.0.0.0	office.com
-0.0.0.0	www.microsoft365.com
+0.0.0.0	microsoft365.com
 0.0.0.0	microsoftusercontent.com
 0.0.0.0	azure-apim.net
 0.0.0.0	flow.microsoft.com
